@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Lu</title>
+    <link>https://example.com/tag/deep-learning/</link>
+      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hudba1d879a1845c308609f01ef1067538_559007_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://example.com/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Towards Greenwashing Detection - a Deep Learning-Based Mechanism for Greenwashing Identification</title>
+      <link>https://example.com/project/greenwashing/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/greenwashing/</guid>
+      <description>&lt;p&gt;Greenwashing is a growing form of climate misinformation, designed to distract the public from the environmentally harmful activities of companies such as fossil fuel producers. Greenwashing strategies are typically subtle, not containing outright falsehoods but painting a misleading picture by emphasising environmentally beneficial activities while neglecting to communicate that the net effect of the company’s activities are negative. The subtle nature of these distracting tactics makes detection of greenwashing challenging. We built a machine learning-based pipeline for detecting Green Messaging on social media and assessing the potential of companies engaging in Greenwashing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Short Video Illicit Promotional Content Detector on Chinese TikTok</title>
+      <link>https://example.com/project/svipc/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/svipc/</guid>
+      <description>&lt;p&gt;Illicit promotional contents (IPCs) are advertising materials or campaigns that violate platform policies by employing deceptive, misleading, or fraudulent practices to promote products, services, or events. As short video platforms have gained popularity, these illicit contents have adapted to take the form of short videos,which we define as Short Video-Illicit promotional contents (SV-IPCs), becoming increasingly prevalent. Consequently, detecting SV-IPCs has become crucial in safeguarding users, especially minors, from fraudulent schemes and harmful contents. Existing detection schemes primarily focused on image processing, text analysis, and QR codes, making them ill-suited for short video platforms. To address this challenge, this paper presents the first comprehensive investigation into the SV-IPCs and their evasion techniques. By shedding light on the ecosystem underlying such illicit promotions, we propose a hybrid detection mechanism that combines natural language processing and video analysis techniques to deal with these emerging security challenges. Experimental results conducted on Chinese TikTok demonstrate the high effectiveness of the proposed scheme, achieving an impressive F1-score, recall, and precision of 90%, 90.9%, and 89.1%, respectively. Throughout the study, special attention is given to the potential implications of illicit promotion on short video platforms for both users and society as a whole.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
