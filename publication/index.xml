@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Lu</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anhzhang1994.github.io/publication/</link>
+      <atom:link href="https://anhzhang1994.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hudba1d879a1845c308609f01ef1067538_559007_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anhzhang1994.github.io/media/icon_hudba1d879a1845c308609f01ef1067538_559007_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://anhzhang1994.github.io/publication/</link>
     </image>
     
     <item>
       <title>Detection Techniques for Chinese Jargon: A Survey</title>
-      <link>https://example.com/publication/conference-paper3/</link>
+      <link>https://anhzhang1994.github.io/publication/conference-paper3/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper3/</guid>
+      <guid>https://anhzhang1994.github.io/publication/conference-paper3/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Stealthy and Seductive: A Survey on Online Illicit Promotion</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://anhzhang1994.github.io/publication/conference-paper/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://anhzhang1994.github.io/publication/conference-paper/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>A Survey on Deep Learning-based Eardrum Segmentation</title>
-      <link>https://example.com/publication/conference-paper2/</link>
+      <link>https://anhzhang1994.github.io/publication/conference-paper2/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper2/</guid>
+      <guid>https://anhzhang1994.github.io/publication/conference-paper2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Lu</title>
-    <link>https://example.com/publication_types/</link>
-      <atom:link href="https://example.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anhzhang1994.github.io/publication_types/</link>
+      <atom:link href="https://anhzhang1994.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hudba1d879a1845c308609f01ef1067538_559007_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anhzhang1994.github.io/media/icon_hudba1d879a1845c308609f01ef1067538_559007_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://example.com/publication_types/</link>
+      <link>https://anhzhang1994.github.io/publication_types/</link>
     </image>
     
   </channel>
