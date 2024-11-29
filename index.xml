@@ -47,7 +47,7 @@
       <link>https://anhzhang1994.github.io/project/greenwashing/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://anhzhang1994.github.io/project/greenwashing/</guid>
-      <description>&lt;p&gt;Greenwashing is a growing form of climate misinformation, designed to distract the public from the environmentally harmful activities of companies such as fossil fuel producers. Greenwashing strategies are typically subtle, not containing outright falsehoods but painting a misleading picture by emphasising environmentally beneficial activities while neglecting to communicate that the net effect of the company’s activities are negative. The subtle nature of these distracting tactics makes detection of greenwashing challenging. We built a machine learning-based pipeline for detecting Green Messaging on social media and assessing the potential of companies engaging in Greenwashing&lt;/p&gt;
+      <description>&lt;p&gt;Greenwashing is a growing form of climate misinformation, designed to distract the public from the environmentally harmful activities of companies such as fossil fuel producers. Greenwashing strategies are typically subtle, not containing outright falsehoods but painting a misleading picture by emphasising environmentally beneficial activities while neglecting to communicate that the net effect of the company’s activities are negative. The subtle nature of these distracting tactics makes detection of greenwashing challenging. Leveraging the multimodal features of posts on social media, we built a machine learning-based pipeline for detecting Green Messaging and assessing the potential of companies engaging in Greenwashing&lt;/p&gt;
 </description>
     </item>
     
