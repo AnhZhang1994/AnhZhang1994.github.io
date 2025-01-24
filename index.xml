@@ -83,6 +83,12 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;p&gt;PhD 101&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applying to Ph.D. Programs in Computer Science&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://matt.might.net/articles/ways-to-fail-a-phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10 easy ways to fail a Ph.D.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quality Research in Affordable Ways&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -166,8 +172,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://anhzhang1994.github.io/post/paperreading/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://anhzhang1994.github.io/post/paperreading/</guid>
-      <description>&lt;p&gt;I have a broad interest in security&amp;amp;privacy and computational social science (especially in social media). During my master&amp;rsquo;s, I had read a lot of paper, but unfortunately I didn&amp;rsquo;t record them systematically, resulting in a lot of them being lost. Now, I&amp;rsquo;m starting to try to document them online for easy storage.&lt;/p&gt;
-&lt;p&gt;They are stored at &lt;a href=&#34;https://lus-organization.gitbook.io/lu_paper_reading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lus-organization.gitbook.io/lu_paper_reading/&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Paper Reading Notes&lt;/p&gt;
+&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/AnhZhang1994/LiteratureNotes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/AnhZhang1994/LiteratureNotes&lt;/a&gt;
+GitBook: &lt;a href=&#34;https://lus-organization.gitbook.io/lu_paper_reading&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lus-organization.gitbook.io/lu_paper_reading&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -176,7 +183,20 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://anhzhang1994.github.io/project/greenwashing/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://anhzhang1994.github.io/project/greenwashing/</guid>
-      <description>&lt;p&gt;Greenwashing is a growing form of climate misinformation, designed to distract the public from the environmentally harmful activities of companies such as fossil fuel producers. Greenwashing strategies are typically subtle, not containing outright falsehoods but painting a misleading picture by emphasising environmentally beneficial activities while neglecting to communicate that the net effect of the company’s activities are negative. The subtle nature of these distracting tactics makes detection of greenwashing challenging. Leveraging the multimodal features of posts on social media, we built a machine learning-based pipeline for detecting Green Messaging and assessing the potential of companies engaging in Greenwashing&lt;/p&gt;
+      <description>&lt;p&gt;Project of the team of Greenwashing, &lt;a href=&#34;https://warwick.ac.uk/research/data-science/warwick-data/dssgx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DSSGx&lt;/a&gt;@the University of Warwick, Summer 2023&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Greenwashing is a growing form of climate misinformation, designed to distract the public from the environmentally harmful activities of companies such as fossil fuel producers. Greenwashing strategies are typically subtle, not containing outright falsehoods but painting a misleading picture by emphasising environmentally beneficial activities while neglecting to communicate that the net effect of the company’s activities are negative. The subtle nature of these distracting tactics makes detection of greenwashing challenging. Leveraging the multimodal features of posts on social media, we built a machine learning-based pipeline for detecting Green Messaging and assessing the potential of companies engaging in Greenwashing&lt;/p&gt;
+&lt;h2 id=&#34;partners&#34;&gt;Partners&lt;/h2&gt;
+&lt;p&gt;This project is a collaboration between &lt;a href=&#34;https://skepticalscience.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr John Cook&lt;/a&gt;, &lt;a href=&#34;https://people.miami.edu/profile/19dbd62ef7e2e5fcd155ef0c53f35bc8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Geoffrey Supran&lt;/a&gt;, &lt;a href=&#34;https://ati.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Algorithmic Transparency Institute&lt;/a&gt; and &lt;a href=&#34;https://warwick.ac.uk/research/data-science/warwick-data/dssgx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science for Social Good Fellowship UK&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;contributors&#34;&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;The Contributors are listed alphabetically.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/matzolla&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allassan Tchangmena A Nken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BettinaRoe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bettina Roethlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AnhZhang1994&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lu Zhang&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MananSuri27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manan Suri&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In collaboration with Project Manager: &lt;a href=&#34;https://github.com/SennaMa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senna Ma&lt;/a&gt; and Technical Mentor: &lt;a href=&#34;https://github.com/jamestripp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Tripp&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -185,7 +205,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://anhzhang1994.github.io/project/svipc/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://anhzhang1994.github.io/project/svipc/</guid>
-      <description>&lt;p&gt;With the rapid expansion of wireless infrastructure and smart devices, short video platforms have become a staple of modern digital ecosystems, offering convenience but also introducing new risks. One such risk is illicit promotional content (IPC), which encompasses deceptive or fraudulent material intended to promote products, services, or events in violation of platform policies. As these platforms grow in popularity, so too does the threat of IPC, which has adapted to the short video format, referred to here as Short Video-Illicit Promotional Content (SV-IPC). The detection of SV-IPC is crucial to protect users, especially minors, from fraudulent schemes and harmful material. Current detection approaches primarily rely on image processing, text analysis, and QR code detection, limiting their effectiveness on short video platforms. This paper provides a comprehensive investigation into SV-IPC and its evasion techniques, revealing the underlying ecosystem of illicit promotion. To address these challenges, we introduce a hybrid detection framework that integrates natural language processing with video analysis. Extensive experiments conducted on Chinese TikTok validate the proposed scheme, demonstrating high effectiveness with an F1-score of 90.7%, recall of 90.3%, and precision of 91.2%. This study underscores the broader societal implications of SV-IPC and the importance of enhanced detection mechanisms.&lt;/p&gt;
+      <description>&lt;p&gt;Project of my master thesis@Hanyang University, 2023&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With the rapid expansion of wireless infrastructure and smart devices, short video platforms have become a staple of modern digital ecosystems, offering convenience but also introducing new risks. One such risk is illicit promotional content (IPC), which encompasses deceptive or fraudulent material intended to promote products, services, or events in violation of platform policies. As these platforms grow in popularity, so too does the threat of IPC, which has adapted to the short video format, referred to here as Short Video-Illicit Promotional Content (SV-IPC). The detection of SV-IPC is crucial to protect users, especially minors, from fraudulent schemes and harmful material. Current detection approaches primarily rely on image processing, text analysis, and QR code detection, limiting their effectiveness on short video platforms. This paper provides a comprehensive investigation into SV-IPC and its evasion techniques, revealing the underlying ecosystem of illicit promotion. To address these challenges, we introduce a hybrid detection framework that integrates natural language processing with video analysis. Extensive experiments conducted on Chinese TikTok validate the proposed scheme, demonstrating high effectiveness with an F1-score of 90.7%, recall of 90.3%, and precision of 91.2%. This study underscores the broader societal implications of SV-IPC and the importance of enhanced detection mechanisms.&lt;/p&gt;
+&lt;p&gt;(Extended version: &lt;strong&gt;Lu Zhang&lt;/strong&gt;, Sungbin Park, Zuobin Xiong, Junggab Son, and Yeonjoon Lee. &amp;ldquo;Understanding Illicit Promotional Contents on Short Video Platforms&amp;rdquo;, -To appear in &lt;em&gt;Tsinghua Science and Technology 2025&lt;/em&gt; (SCIE Q1, Impact Factor 5.2)&lt;/p&gt;
 </description>
     </item>
     
