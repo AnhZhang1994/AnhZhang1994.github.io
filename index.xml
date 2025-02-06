@@ -86,6 +86,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applying to Ph.D. Programs in Computer Science&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://drafty.cs.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ranking&amp;amp;Profs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://matt.might.net/articles/ways-to-fail-a-phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10 easy ways to fail a Ph.D.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -124,9 +127,15 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;li&gt;
 &lt;p&gt;AI&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://udlbook.github.io/udlbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Understand Deep Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aibyhand.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI by Hand&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://d2l.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dive into Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://udlbook.github.io/udlbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Understand Deep Learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://aibyhand.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI by Hand&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://d2l.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dive into Deep Learning&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -173,8 +182,8 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://anhzhang1994.github.io/post/paperreading/</guid>
       <description>&lt;p&gt;Paper Reading Notes&lt;/p&gt;
-&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/AnhZhang1994/LiteratureNotes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/AnhZhang1994/LiteratureNotes&lt;/a&gt;
-GitBook: &lt;a href=&#34;https://lus-organization.gitbook.io/lu_paper_reading&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lus-organization.gitbook.io/lu_paper_reading&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/AnhZhang1994/LiteratureNotes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/AnhZhang1994/LiteratureNotes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitBook: &lt;a href=&#34;https://lus-organization.gitbook.io/lu_paper_reading&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lus-organization.gitbook.io/lu_paper_reading&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
