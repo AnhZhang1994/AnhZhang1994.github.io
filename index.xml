@@ -60,7 +60,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Useful Links</title>
+      <title>PhD 101</title>
       <link>https://anhzhang1994.github.io/post/usefullinks/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://anhzhang1994.github.io/post/usefullinks/</guid>
@@ -234,7 +234,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <description>&lt;p&gt;Project of my master thesis@Hanyang University, 2023&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;With the rapid expansion of wireless infrastructure and smart devices, short video platforms have become a staple of modern digital ecosystems, offering convenience but also introducing new risks. One such risk is illicit promotional content (IPC), which encompasses deceptive or fraudulent material intended to promote products, services, or events in violation of platform policies. As these platforms grow in popularity, so too does the threat of IPC, which has adapted to the short video format, referred to here as Short Video-Illicit Promotional Content (SV-IPC). The detection of SV-IPC is crucial to protect users, especially minors, from fraudulent schemes and harmful material. Current detection approaches primarily rely on image processing, text analysis, and QR code detection, limiting their effectiveness on short video platforms. This paper provides a comprehensive investigation into SV-IPC and its evasion techniques, revealing the underlying ecosystem of illicit promotion. To address these challenges, we introduce a hybrid detection framework that integrates natural language processing with video analysis. Extensive experiments conducted on Chinese TikTok validate the proposed scheme, demonstrating high effectiveness with an F1-score of 90.7%, recall of 90.3%, and precision of 91.2%. This study underscores the broader societal implications of SV-IPC and the importance of enhanced detection mechanisms.&lt;/p&gt;
-&lt;p&gt;(Extended version: &lt;strong&gt;Lu Zhang&lt;/strong&gt;, Sungbin Park, Zuobin Xiong, Junggab Son, and Yeonjoon Lee. &amp;ldquo;Understanding Illicit Promotional Contents on Short Video Platforms&amp;rdquo;, -To appear in &lt;em&gt;Tsinghua Science and Technology 2025&lt;/em&gt; (SCIE Q1, Impact Factor 5.2)&lt;/p&gt;
+&lt;p&gt;(Extended version: &lt;strong&gt;Lu Zhang&lt;/strong&gt;, Sungbin Park, Zuobin Xiong, Junggab Son, and Yeonjoon Lee. &lt;a href=&#34;https://www.sciopen.com/article/10.26599/TST.2024.9010260&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Understanding Illicit Promotional Contents on Short Video Platforms&amp;rdquo;&lt;/a&gt;, - in &lt;em&gt;Tsinghua Science and Technology 2025&lt;/em&gt; (SCIE Q1, Impact Factor 5.2)&lt;/p&gt;
 </description>
     </item>
     
